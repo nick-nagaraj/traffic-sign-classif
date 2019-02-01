@@ -16,6 +16,7 @@ Kept class name as name of the folder within which images were added. Image reso
 
 Due to memory and processor limitations, I ran it on only 5 classes with ~30 images in each class. No data augmentation was implemented due to the above reason. However, feel free to increase the number of images, increase the resizing resolution and increase batch size on your own PC.
 
-
+# Link to Dataset
+http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 
 
